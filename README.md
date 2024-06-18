@@ -38,7 +38,7 @@ Install my-project with Java-Script And Requrements.
 ```
     
 ## Screenshots
-[tool Screenshots](https://x.com/ahalifhassanjoy/status/1803104292083212736/photo/1)
+[tool Screenshots](https://github.com/Alif145/JAVA-LOIC/blob/main/java_loic.png)
 
 
 ## 🛠 Skills
